@@ -1,0 +1,7 @@
+@start version
+major = 1 minor = 1
+@end version
+@start activity_data
+{ Scenario default
+}
+@end activity_data
